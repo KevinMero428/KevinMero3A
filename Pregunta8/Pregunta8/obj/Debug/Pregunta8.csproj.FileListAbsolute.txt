@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\Pregunta8\Pregunta8\bin\Debug\Pregunta8.exe.config
+C:\Users\kevme\source\repos\Pregunta8\Pregunta8\bin\Debug\Pregunta8.exe
+C:\Users\kevme\source\repos\Pregunta8\Pregunta8\bin\Debug\Pregunta8.pdb
+C:\Users\kevme\source\repos\Pregunta8\Pregunta8\obj\Debug\Pregunta8.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\Pregunta8\Pregunta8\obj\Debug\Pregunta8.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Pregunta8\Pregunta8\obj\Debug\Pregunta8.exe
+C:\Users\kevme\source\repos\Pregunta8\Pregunta8\obj\Debug\Pregunta8.pdb
