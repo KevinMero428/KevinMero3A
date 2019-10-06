@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\Pregunta6\Pregunta6\obj\Debug\Pregunta6.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Pregunta6\Pregunta6\bin\Debug\Pregunta6.exe.config
+C:\Users\kevme\source\repos\Pregunta6\Pregunta6\bin\Debug\Pregunta6.exe
+C:\Users\kevme\source\repos\Pregunta6\Pregunta6\bin\Debug\Pregunta6.pdb
+C:\Users\kevme\source\repos\Pregunta6\Pregunta6\obj\Debug\Pregunta6.exe
+C:\Users\kevme\source\repos\Pregunta6\Pregunta6\obj\Debug\Pregunta6.pdb
+C:\Users\kevme\source\repos\Pregunta6\Pregunta6\obj\Debug\Pregunta6.csprojAssemblyReference.cache
