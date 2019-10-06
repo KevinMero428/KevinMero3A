@@ -1,0 +1,6 @@
+C:\Users\kevme\source\repos\Pregunta3\Pregunta3\bin\Debug\Pregunta3.exe.config
+C:\Users\kevme\source\repos\Pregunta3\Pregunta3\bin\Debug\Pregunta3.exe
+C:\Users\kevme\source\repos\Pregunta3\Pregunta3\bin\Debug\Pregunta3.pdb
+C:\Users\kevme\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.exe
+C:\Users\kevme\source\repos\Pregunta3\Pregunta3\obj\Debug\Pregunta3.pdb
