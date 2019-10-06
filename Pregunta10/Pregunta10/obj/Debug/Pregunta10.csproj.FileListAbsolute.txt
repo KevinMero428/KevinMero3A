@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\Pregunta10\Pregunta10\bin\Debug\Pregunta10.exe.config
+C:\Users\kevme\source\repos\Pregunta10\Pregunta10\bin\Debug\Pregunta10.exe
+C:\Users\kevme\source\repos\Pregunta10\Pregunta10\bin\Debug\Pregunta10.pdb
+C:\Users\kevme\source\repos\Pregunta10\Pregunta10\obj\Debug\Pregunta10.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\Pregunta10\Pregunta10\obj\Debug\Pregunta10.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Pregunta10\Pregunta10\obj\Debug\Pregunta10.exe
+C:\Users\kevme\source\repos\Pregunta10\Pregunta10\obj\Debug\Pregunta10.pdb
