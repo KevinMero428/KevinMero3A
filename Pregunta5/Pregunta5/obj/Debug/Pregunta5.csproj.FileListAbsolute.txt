@@ -1,0 +1,6 @@
+C:\Users\kevme\source\repos\Pregunta5\Pregunta5\bin\Debug\Pregunta5.exe.config
+C:\Users\kevme\source\repos\Pregunta5\Pregunta5\bin\Debug\Pregunta5.exe
+C:\Users\kevme\source\repos\Pregunta5\Pregunta5\bin\Debug\Pregunta5.pdb
+C:\Users\kevme\source\repos\Pregunta5\Pregunta5\obj\Debug\Pregunta5.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Pregunta5\Pregunta5\obj\Debug\Pregunta5.exe
+C:\Users\kevme\source\repos\Pregunta5\Pregunta5\obj\Debug\Pregunta5.pdb
