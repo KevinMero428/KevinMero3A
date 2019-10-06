@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\Pregunta9\Pregunta9\bin\Debug\Pregunta9.exe.config
+C:\Users\kevme\source\repos\Pregunta9\Pregunta9\bin\Debug\Pregunta9.exe
+C:\Users\kevme\source\repos\Pregunta9\Pregunta9\bin\Debug\Pregunta9.pdb
+C:\Users\kevme\source\repos\Pregunta9\Pregunta9\obj\Debug\Pregunta9.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\Pregunta9\Pregunta9\obj\Debug\Pregunta9.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Pregunta9\Pregunta9\obj\Debug\Pregunta9.exe
+C:\Users\kevme\source\repos\Pregunta9\Pregunta9\obj\Debug\Pregunta9.pdb
