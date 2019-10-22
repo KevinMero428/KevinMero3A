@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\Encapsulamiento.exe.config
+C:\Users\kevme\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\Encapsulamiento.exe
+C:\Users\kevme\source\repos\Encapsulamiento\Encapsulamiento\bin\Debug\Encapsulamiento.pdb
+C:\Users\kevme\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.exe
+C:\Users\kevme\source\repos\Encapsulamiento\Encapsulamiento\obj\Debug\Encapsulamiento.pdb
