@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\Ventas\Ventas\bin\Debug\Ventas.exe.config
+C:\Users\kevme\source\repos\Ventas\Ventas\bin\Debug\Ventas.exe
+C:\Users\kevme\source\repos\Ventas\Ventas\bin\Debug\Ventas.pdb
+C:\Users\kevme\source\repos\Ventas\Ventas\obj\Debug\Ventas.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\Ventas\Ventas\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Ventas\Ventas\obj\Debug\Ventas.exe
+C:\Users\kevme\source\repos\Ventas\Ventas\obj\Debug\Ventas.pdb
