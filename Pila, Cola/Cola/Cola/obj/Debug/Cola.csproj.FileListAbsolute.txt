@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\Cola\Cola\bin\Debug\Cola.exe.config
+C:\Users\kevme\source\repos\Cola\Cola\bin\Debug\Cola.exe
+C:\Users\kevme\source\repos\Cola\Cola\bin\Debug\Cola.pdb
+C:\Users\kevme\source\repos\Cola\Cola\obj\Debug\Cola.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\Cola\Cola\obj\Debug\Cola.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Cola\Cola\obj\Debug\Cola.exe
+C:\Users\kevme\source\repos\Cola\Cola\obj\Debug\Cola.pdb

@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\Integracion\Integracion\bin\Debug\Integracion.exe.config
+C:\Users\kevme\source\repos\Integracion\Integracion\bin\Debug\Integracion.exe
+C:\Users\kevme\source\repos\Integracion\Integracion\bin\Debug\Integracion.pdb
+C:\Users\kevme\source\repos\Integracion\Integracion\obj\Debug\Integracion.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\Integracion\Integracion\obj\Debug\Integracion.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\Integracion\Integracion\obj\Debug\Integracion.exe
+C:\Users\kevme\source\repos\Integracion\Integracion\obj\Debug\Integracion.pdb
