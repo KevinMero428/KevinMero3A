@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\TercerNivelCia\TercerNivelCia\bin\Debug\TercerNivelCia.exe.config
+C:\Users\kevme\source\repos\TercerNivelCia\TercerNivelCia\bin\Debug\TercerNivelCia.exe
+C:\Users\kevme\source\repos\TercerNivelCia\TercerNivelCia\bin\Debug\TercerNivelCia.pdb
+C:\Users\kevme\source\repos\TercerNivelCia\TercerNivelCia\obj\Debug\TercerNivelCia.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\TercerNivelCia\TercerNivelCia\obj\Debug\TercerNivelCia.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\TercerNivelCia\TercerNivelCia\obj\Debug\TercerNivelCia.exe
+C:\Users\kevme\source\repos\TercerNivelCia\TercerNivelCia\obj\Debug\TercerNivelCia.pdb
