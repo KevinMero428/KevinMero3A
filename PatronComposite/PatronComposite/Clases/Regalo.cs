@@ -8,6 +8,9 @@ namespace PatronComposite.Clases
 {
     public abstract class Regalo
     {
+        //Aqui es donde almacenamos los nombres y el precio del regalo que sera
+        //visto al final de la consola para poder calcular su precio y tenerlo al lado del nombre
+        
         protected string nombre;
         protected int precio;
 
