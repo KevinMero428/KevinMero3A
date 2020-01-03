@@ -1,0 +1,7 @@
+C:\Users\kevme\source\repos\PatronComposite\PatronComposite\bin\Debug\PatronComposite.exe.config
+C:\Users\kevme\source\repos\PatronComposite\PatronComposite\bin\Debug\PatronComposite.exe
+C:\Users\kevme\source\repos\PatronComposite\PatronComposite\bin\Debug\PatronComposite.pdb
+C:\Users\kevme\source\repos\PatronComposite\PatronComposite\obj\Debug\PatronComposite.csprojAssemblyReference.cache
+C:\Users\kevme\source\repos\PatronComposite\PatronComposite\obj\Debug\PatronComposite.csproj.CoreCompileInputs.cache
+C:\Users\kevme\source\repos\PatronComposite\PatronComposite\obj\Debug\PatronComposite.exe
+C:\Users\kevme\source\repos\PatronComposite\PatronComposite\obj\Debug\PatronComposite.pdb
